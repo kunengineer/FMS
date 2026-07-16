@@ -1,0 +1,28 @@
+# Excel
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
+*.csv
+~$*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Environment
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+Internship_Report/*
