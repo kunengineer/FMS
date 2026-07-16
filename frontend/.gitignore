@@ -23,8 +23,11 @@ dist-ssr
 *.sln
 *.sw?
 
-# excel
+# Excel
 *.xlsx
-*.xlsm
 *.xls
-*.txt
+*.xlsm
+*.xlsb
+*.csv
+
+Internship_Report/*
