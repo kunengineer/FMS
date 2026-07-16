@@ -1,0 +1,10 @@
+báo cáo tuần 
+báo cáo tháng
+
+Cần : người vận hành làm gì, số lần sửa chữa, 
+quản lý được xe nào hoạt động, xe nào hư hỏng , ...
+tài xế có thực hiện đúng hay không làm việc có hiệu quả không
+đổ dữ liệu có thống kê thời gian hoạt động vd : thời gian hoạt động 50h hư 40h 
+cần chỉnh sửa checklist cho hoàn thiện cải thiện lại 
+
+hiệu suất làm = số giờ hư / số làm hoạt động 
